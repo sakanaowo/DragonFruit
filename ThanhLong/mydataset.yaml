@@ -1,0 +1,10 @@
+train: /input/thanhlong4/thanhlong4/train
+test: /input/thanhlong4/thanhlong4/train
+val: /input/thanhlong4/thanhlong4/train
+nc: 3
+names: ['thoibe', 'namcanh','thanthu']
+'train: /kaggle/input/thanhlong4/thanhlong4/train' 
+'test: /kaggle/input/thanhlong4/thanhlong4/train' 
+'val: /kaggle/input/thanhlong4/thanhlong4/train' 
+'nc: 3' 
+"names: ['thoibe', 'namcanh','thanthu']" 
