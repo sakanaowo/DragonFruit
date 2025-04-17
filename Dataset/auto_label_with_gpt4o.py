@@ -6,8 +6,6 @@ import json
 from PIL import Image
 from io import BytesIO
 
-openai.api_key = "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"  # 🔑 Thay bằng API key của bạn
-
 # ✅ Danh sách nhãn cần GPT phân loại
 label_list = [
     "Bacterial Diseases",
@@ -24,7 +22,7 @@ label_list = [
 root_image_dir = "D:\Dragon Fruit project (CNN)\Dataset"  # <--- ⚠️ Sửa thành đường dẫn thật đến thư mục gốc
 
 # 📄 Kết quả gán nhãn sẽ lưu ở đây
-output_file = "gpt4o_labels.json"
+output_file = "labels.json"
 
 def encode_image(image_path):
     image = Image.open(image_path).convert("RGB")
