@@ -50,6 +50,9 @@
   "Dataset/bad_fruit/raw (34).jpg": [
     "Insect-Infected Fruits"
   ],
+  "Dataset/bad_fruit/raw (482).jpg": [
+    "Sunburn Damage"
+  ],
   "Dataset/bad_fruit/raw (781).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
@@ -5770,40 +5773,40 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_fruit/BGR (10).jpg": [
-    "Insect-Infected Fruits"
-  ],
-  "Dataset/good_fruit/BGR (1019).jpg": [
-    "Healthy Fruits"
-  ],
-  "Dataset/good_fruit/BGR (11).jpg": [
     "Sunburn Damage"
   ],
-  "Dataset/good_fruit/BGR (12).jpg": [
+  "Dataset/good_fruit/BGR (1019).jpg": [
+    "Sunburn Damage"
+  ],
+  "Dataset/good_fruit/BGR (11).jpg": [
     "Insect-Infected Fruits"
+  ],
+  "Dataset/good_fruit/BGR (12).jpg": [
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/BGR (13).jpg": [
-    "Insect-Infected Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/BGR (136).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/BGR (137).jpg": [
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/BGR (14).jpg": [
-    "Insect-Infected Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/BGR (1449).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_fruit/BGR (1463).jpg": [
-    "Healthy Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/BGR (149).jpg": [
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/BGR (15).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/BGR (167).jpg": [
     "Healthy Fruits"
@@ -5818,94 +5821,94 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_fruit/BGR (1949).jpg": [
-    "Bacterial Wilt (Fruits)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/BGR (2309).jpg": [
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/BGR (24).jpg": [
-    "Insect-Infected Fruits"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/BGR (245).jpg": [
-    "Bacterial Wilt (Fruits)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/BGR (25).jpg": [
-    "Bacterial Wilt (Fruits)"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/BGR (26).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/BGR (279).jpg": [
-    "Insect-Infected Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/BGR (28).jpg": [
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/BGR (280).jpg": [
-    "Insect-Infected Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/BGR (324).jpg": [
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/BGR (338).jpg": [
-    "Insect-Infected Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/BGR (339).jpg": [
     "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/BGR (340).jpg": [
-    "Sunburn Damage"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_fruit/BGR (341).jpg": [
     "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/BGR (372).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/BGR (389).jpg": [
-    "Insect-Infected Fruits"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/BGR (390).jpg": [
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/BGR (391).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/BGR (394).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/BGR (404).jpg": [
-    "Insect-Infected Fruits"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/BGR (440).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/BGR (451).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/BGR (566).jpg": [
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/BGR (753).jpg": [
-    "Insect-Infected Fruits"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/BGR (94).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/PXL_20241025_044807984.jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_fruit/PXL_20241025_051744682.jpg": [
-    "Bacterial Wilt (Fruits)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/PXL_20241025_062046890.jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/PXL_20241027_105545448.jpg": [
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/raw (210).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/raw (291).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -5929,34 +5932,31 @@
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/raw (35).jpg": [
-    "Insect-Infected Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/raw (36).jpg": [
-    "Insect-Infected Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/raw (37).jpg": [
-    "Insect-Infected Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/raw (38).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/raw (39).jpg": [
     "Sunburn Damage"
   ],
-  "Dataset/good_fruit/raw (482).jpg": [
-    "Bacterial Wilt (Fruits)"
-  ],
   "Dataset/good_fruit/raw (56).jpg": [
-    "Bacterial Wilt (Fruits)"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/raw (57).jpg": [
-    "Bacterial Wilt (Fruits)"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/raw (58).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/raw (684).jpg": [
-    "Insect-Infected Fruits"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/raw (685).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -5968,19 +5968,19 @@
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2054).jpg": [
-    "Bacterial Wilt (Fruits)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2058).jpg": [
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2059).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2061).jpg": [
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2062).jpg": [
-    "Healthy Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2066).jpg": [
     "Insect-Infected Fruits"
@@ -5989,19 +5989,19 @@
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2068)(1).jpg": [
-    "Healthy Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2068).jpg": [
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2069).jpg": [
-    "Healthy Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2070).jpg": [
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2072).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2073).jpg": [
     "Insect-Infected Fruits"
@@ -6013,13 +6013,13 @@
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2076).jpg": [
-    "Healthy Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2077).jpg": [
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2078).jpg": [
-    "Healthy Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2080).jpg": [
     "Healthy Fruits"
@@ -6028,49 +6028,49 @@
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2082).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2083).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2084).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2089).jpg": [
-    "Healthy Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2090)(1).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2090).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2091)(1).jpg": [
-    "Healthy Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2091).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2092).jpg": [
-    "Healthy Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2093)(1).jpg": [
-    "Sunburn Damage"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2093).jpg": [
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2094)(1).jpg": [
-    "Healthy Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2094).jpg": [
-    "Healthy Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2095)(1).jpg": [
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2095).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2096).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -6079,7 +6079,7 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_fruit/Raw- (2099).jpg": [
-    "Healthy Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2100).jpg": [
     "Insect-Infected Fruits"
@@ -6100,7 +6100,7 @@
     "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2111).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2112).jpg": [
     "Healthy Fruits"
@@ -6109,16 +6109,16 @@
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2114).jpg": [
-    "Insect-Infected Fruits"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2115).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2116).jpg": [
     "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2117).jpg": [
-    "Sunburn Damage"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_fruit/Raw- (2118).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -6142,7 +6142,7 @@
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2138).jpg": [
-    "Insect-Infected Fruits"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2139).jpg": [
     "Healthy Fruits"
@@ -6163,16 +6163,16 @@
     "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2156).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2157).jpg": [
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2158).jpg": [
-    "Insect-Infected Fruits"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2174).jpg": [
-    "Insect-Infected Fruits"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2187).jpg": [
     "Sunburn Damage"
@@ -6196,7 +6196,7 @@
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2200).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2201).jpg": [
     "Insect-Infected Fruits"
@@ -6205,13 +6205,13 @@
     "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2207).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2213).jpg": [
     "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2214).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2215).jpg": [
     "Sunburn Damage"
@@ -6220,7 +6220,7 @@
     "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2217).jpg": [
-    "Insect-Infected Fruits"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2220).jpg": [
     "Insect-Infected Fruits"
@@ -6244,10 +6244,10 @@
     "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2242).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2243).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2254).jpg": [
     "Insect-Infected Fruits"
@@ -6256,13 +6256,13 @@
     "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2263).jpg": [
-    "Insect-Infected Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2264).jpg": [
-    "- Insect-Infected Fruits"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_fruit/Raw- (2265).jpg": [
-    "Insect-Infected Fruits"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_fruit/Raw- (2271).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -6274,7 +6274,7 @@
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2275).jpg": [
-    "Sunburn Damage"
+    "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2276).jpg": [
     "Insect-Infected Fruits"
@@ -6289,16 +6289,16 @@
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2280).jpg": [
-    "Insect-Infected Fruits"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2281).jpg": [
-    "Insect-Infected Fruits"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2282).jpg": [
-    "Insect-Infected Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2283).jpg": [
-    "Healthy Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2284).jpg": [
     "Sunburn Damage"
@@ -6307,7 +6307,7 @@
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2286).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2287).jpg": [
     "Sunburn Damage"
@@ -6316,10 +6316,10 @@
     "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2289).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2290).jpg": [
-    "Healthy Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2291).jpg": [
     "Sunburn Damage"
@@ -6328,13 +6328,13 @@
     "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2298).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2299).jpg": [
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2300).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2301).jpg": [
     "Healthy Fruits"
@@ -6343,16 +6343,16 @@
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2303).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2307).jpg": [
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2308).jpg": [
-    "Healthy Fruits"
+    "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2309).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2310).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -6361,7 +6361,7 @@
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2312).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2313).jpg": [
     "Sunburn Damage"
@@ -6373,34 +6373,34 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_fruit/Raw- (2320).jpg": [
-    "Healthy Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2321).jpg": [
-    "Insect-Infected Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2322).jpg": [
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2324).jpg": [
-    "Insect-Infected Fruits"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_fruit/Raw- (2327).jpg": [
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2330).jpg": [
-    "- Insect-Infected Fruits"
+    "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2331).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2332).jpg": [
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2333).jpg": [
-    "Insect-Infected Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2334).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2335).jpg": [
     "Sunburn Damage"
@@ -6418,7 +6418,7 @@
     "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2344).jpg": [
-    "Insect-Infected Fruits"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_fruit/Raw- (2345).jpg": [
     "Sunburn Damage"
@@ -6430,19 +6430,19 @@
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2348).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2349).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2350).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2351).jpg": [
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2352).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2353).jpg": [
     "Sunburn Damage"
@@ -6481,13 +6481,13 @@
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2374).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2375).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2399).jpg": [
-    "Sunburn Damage"
+    "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2401).jpg": [
     "Insect-Infected Fruits"
@@ -6511,19 +6511,19 @@
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2415).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2419).jpg": [
-    "Sunburn Damage"
+    "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2420).jpg": [
-    "Sunburn Damage"
+    "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2422).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2460).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2461).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -6532,7 +6532,7 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_fruit/Raw- (2463).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2474).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -6541,7 +6541,7 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_fruit/Raw- (2476).jpg": [
-    "Insect-Infected Fruits"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_fruit/Raw- (2478)(1).jpg": [
     "Healthy Fruits"
@@ -6559,13 +6559,13 @@
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2481)(1).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2481).jpg": [
     "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2482).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2483).jpg": [
     "Healthy Fruits"
@@ -6574,10 +6574,10 @@
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2485).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2486).jpg": [
-    "Sunburn Damage"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2489).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -6595,22 +6595,22 @@
     "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2499).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (2500).jpg": [
-    "Sunburn Damage"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2501).jpg": [
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2502).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2503).jpg": [
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2504).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2505).jpg": [
     "Sunburn Damage"
@@ -6634,31 +6634,31 @@
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2518).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2519).jpg": [
-    "Sunburn Damage"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2520).jpg": [
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2521).jpg": [
-    "Sunburn Damage"
-  ],
-  "Dataset/good_fruit/Raw- (2522).jpg": [
     "Healthy Fruits"
   ],
+  "Dataset/good_fruit/Raw- (2522).jpg": [
+    "Sunburn Damage"
+  ],
   "Dataset/good_fruit/Raw- (2523).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2524).jpg": [
     "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2525).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2526).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2527).jpg": [
     "Insect-Infected Fruits"
@@ -6673,10 +6673,10 @@
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2534).jpg": [
-    "Sunburn Damage"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2535).jpg": [
-    "Bacterial Wilt (Fruits)"
+    "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2536).jpg": [
     "Sunburn Damage"
@@ -6694,10 +6694,10 @@
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (2548).jpg": [
-    "Insect-Infected Fruits"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_fruit/Raw- (2551).jpg": [
-    "Insect-Infected Fruits"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2560).jpg": [
     "Healthy Fruits"
@@ -6715,10 +6715,10 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_fruit/Raw- (2568).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2569).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (2571).jpg": [
     "Sunburn Damage"
@@ -6736,7 +6736,7 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_fruit/Raw- (34).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Insect-Infected Fruits"
   ],
   "Dataset/good_fruit/Raw- (341).jpg": [
     "Healthy Fruits"
@@ -6754,7 +6754,7 @@
     "Healthy Fruits"
   ],
   "Dataset/good_fruit/Raw- (35).jpg": [
-    "Fungal Infections (Anthracnose or Stem Canker)"
+    "Sunburn Damage"
   ],
   "Dataset/good_fruit/Raw- (44).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
