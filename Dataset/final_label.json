@@ -3753,7 +3753,7 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/bad_leaf/PXL_20241025_045408226.jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/bad_leaf/PXL_20241025_045422555.jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -3966,7 +3966,7 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/bad_leaf/PXL_20241025_050958520.jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/bad_leaf/PXL_20241025_051011348.jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -5544,7 +5544,7 @@
     "Sunburn Damage"
   ],
   "Dataset/bad_leaf/Raw- (265).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/bad_leaf/Raw- (27).jpg": [
     "Sunburn Damage"
@@ -5658,7 +5658,7 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/bad_leaf/Raw- (432).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/bad_leaf/Raw- (435).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -5670,7 +5670,7 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/bad_leaf/Raw- (438).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/bad_leaf/Raw- (452).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -6765,7 +6765,7 @@
     "Healthy Leaves"
   ],
   "Dataset/good_leaf/BGR (1020).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/BGR (1023).jpg": [
     "Healthy Leaves"
@@ -6921,7 +6921,7 @@
     "Healthy Leaves"
   ],
   "Dataset/good_leaf/BGR (1107).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/BGR (1108).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -6937,9 +6937,6 @@
   ],
   "Dataset/good_leaf/BGR (1113).jpg": [
     "Healthy Leaves"
-  ],
-  "Dataset/good_leaf/BGR (1114).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
   ],
   "Dataset/good_leaf/BGR (1115).jpg": [
     "Healthy Leaves"
@@ -7002,7 +6999,7 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/BGR (1135).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/BGR (1136).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -7182,7 +7179,7 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/BGR (1271).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/BGR (1272).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -8571,7 +8568,7 @@
     "Healthy Leaves"
   ],
   "Dataset/good_leaf/BGR (2295).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/BGR (2296).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -8898,7 +8895,7 @@
     "Healthy Leaves"
   ],
   "Dataset/good_leaf/BGR (298).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/BGR (299).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -9104,9 +9101,6 @@
   "Dataset/good_leaf/BGR (425).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
-  "Dataset/good_leaf/BGR (426).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
-  ],
   "Dataset/good_leaf/BGR (427).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
@@ -9139,9 +9133,6 @@
   ],
   "Dataset/good_leaf/BGR (444).jpg": [
     "Healthy Leaves"
-  ],
-  "Dataset/good_leaf/BGR (445).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
   ],
   "Dataset/good_leaf/BGR (446).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -9291,7 +9282,7 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/BGR (617).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/BGR (618).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -9609,7 +9600,7 @@
     "Healthy Leaves"
   ],
   "Dataset/good_leaf/BGR (735).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/BGR (736).jpg": [
     "Healthy Leaves"
@@ -9894,7 +9885,7 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/BGR (853).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/BGR (855).jpg": [
     "Healthy Leaves"
@@ -10017,7 +10008,7 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/BGR (93).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Healthy Leaves"
   ],
   "Dataset/good_leaf/BGR (933).jpg": [
     "Healthy Leaves"
@@ -10200,7 +10191,7 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/PXL_20241025_045552478.jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/PXL_20241025_045617641.jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -10782,7 +10773,7 @@
     "Healthy Leaves"
   ],
   "Dataset/good_leaf/PXL_20241025_062809496.jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/PXL_20241025_062842963.jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -10797,7 +10788,7 @@
     "Sunburn Damage"
   ],
   "Dataset/good_leaf/PXL_20241025_062907809.jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/PXL_20241025_062950348.jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -10948,9 +10939,6 @@
   ],
   "Dataset/good_leaf/PXL_20241025_064529573.jpg": [
     "Healthy Leaves"
-  ],
-  "Dataset/good_leaf/PXL_20241025_064538040.jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
   ],
   "Dataset/good_leaf/PXL_20241025_064540404.jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -11170,9 +11158,6 @@
   ],
   "Dataset/good_leaf/PXL_20241027_100947302.jpg": [
     "Healthy Leaves"
-  ],
-  "Dataset/good_leaf/PXL_20241027_100950502.jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
   ],
   "Dataset/good_leaf/PXL_20241027_100959403.jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -11670,7 +11655,7 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/PXL_20241027_105352226.jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/PXL_20241027_105358972.jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -12106,9 +12091,6 @@
   ],
   "Dataset/good_leaf/Raw- (1243).jpg": [
     "Healthy Leaves"
-  ],
-  "Dataset/good_leaf/Raw- (1244).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
   ],
   "Dataset/good_leaf/Raw- (1246).jpg": [
     "Healthy Leaves"
@@ -13302,7 +13284,7 @@
     "Healthy Leaves"
   ],
   "Dataset/good_leaf/Raw- (252).jpg": [
-    "Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/Raw- (256).jpg": [
     "Healthy Leaves"
@@ -13341,7 +13323,7 @@
     "Healthy Leaves"
   ],
   "Dataset/good_leaf/Raw- (327).jpg": [
-    "- Mealybugs and Scale Insects (Fruits)"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/good_leaf/Raw- (338).jpg": [
     "Sunburn Damage"
