@@ -956,9 +956,6 @@
   "Dataset/bad_leaf/BGR (1025).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
-  "Dataset/bad_leaf/BGR (1029).jpg": [
-    "Bacterial Diseases"
-  ],
   "Dataset/bad_leaf/BGR (103).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
@@ -1613,9 +1610,6 @@
   "Dataset/bad_leaf/BGR (1515).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
-  "Dataset/bad_leaf/BGR (1518).jpg": [
-    "Bacterial Diseases"
-  ],
   "Dataset/bad_leaf/BGR (1520).jpg": [
     "Sunburn Damage"
   ],
@@ -1650,7 +1644,7 @@
     "Sunburn Damage"
   ],
   "Dataset/bad_leaf/BGR (1534).jpg": [
-    "Bacterial Diseases"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/bad_leaf/BGR (1538).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -1711,9 +1705,6 @@
   ],
   "Dataset/bad_leaf/BGR (1566).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
-  ],
-  "Dataset/bad_leaf/BGR (1567).jpg": [
-    "Bacterial Diseases"
   ],
   "Dataset/bad_leaf/BGR (157).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -1813,9 +1804,6 @@
   ],
   "Dataset/bad_leaf/BGR (1679).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
-  ],
-  "Dataset/bad_leaf/BGR (1684).jpg": [
-    "Bacterial Diseases"
   ],
   "Dataset/bad_leaf/BGR (1690).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -2025,7 +2013,7 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/bad_leaf/BGR (1851).jpg": [
-    "Bacterial Diseases"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/bad_leaf/BGR (1852).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -2339,9 +2327,6 @@
   "Dataset/bad_leaf/BGR (2088).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
-  "Dataset/bad_leaf/BGR (209).jpg": [
-    "Bacterial Diseases"
-  ],
   "Dataset/bad_leaf/BGR (2094).jpg": [
     "Sunburn Damage"
   ],
@@ -2356,9 +2341,6 @@
   ],
   "Dataset/bad_leaf/BGR (2111).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
-  ],
-  "Dataset/bad_leaf/BGR (2113).jpg": [
-    "Bacterial Diseases"
   ],
   "Dataset/bad_leaf/BGR (2117).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -2543,9 +2525,6 @@
   "Dataset/bad_leaf/BGR (2239).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
-  "Dataset/bad_leaf/BGR (224).jpg": [
-    "Bacterial Diseases"
-  ],
   "Dataset/bad_leaf/BGR (2240).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
@@ -2679,7 +2658,7 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/bad_leaf/BGR (231).jpg": [
-    "Bacterial Diseases"
+    "Sunburn Damage"
   ],
   "Dataset/bad_leaf/BGR (2316).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -2982,7 +2961,7 @@
     "Sunburn Damage"
   ],
   "Dataset/bad_leaf/BGR (30).jpg": [
-    "Bacterial Diseases"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/bad_leaf/BGR (301).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -3086,9 +3065,6 @@
   "Dataset/bad_leaf/BGR (393).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
-  "Dataset/bad_leaf/BGR (395).jpg": [
-    "Bacterial Diseases"
-  ],
   "Dataset/bad_leaf/BGR (398)(1).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
@@ -3130,9 +3106,6 @@
   ],
   "Dataset/bad_leaf/BGR (435).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
-  ],
-  "Dataset/bad_leaf/BGR (44).jpg": [
-    "Bacterial Diseases"
   ],
   "Dataset/bad_leaf/BGR (45).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -3202,9 +3175,6 @@
   ],
   "Dataset/bad_leaf/BGR (51).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
-  ],
-  "Dataset/bad_leaf/BGR (513).jpg": [
-    "Bacterial Diseases"
   ],
   "Dataset/bad_leaf/BGR (514).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -3363,7 +3333,7 @@
     "Sunburn Damage"
   ],
   "Dataset/bad_leaf/BGR (67).jpg": [
-    "Bacterial Diseases"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/bad_leaf/BGR (673).jpg": [
     "Sunburn Damage"
@@ -3392,11 +3362,8 @@
   "Dataset/bad_leaf/BGR (7).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
-  "Dataset/bad_leaf/BGR (70).jpg": [
-    "Bacterial Diseases"
-  ],
   "Dataset/bad_leaf/BGR (71).jpg": [
-    "Bacterial Diseases"
+    "Sunburn Damage"
   ],
   "Dataset/bad_leaf/BGR (724).jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
@@ -3576,7 +3543,7 @@
     "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/bad_leaf/BGR (911).jpg": [
-    "Bacterial Diseases"
+    "Fungal Infections (Anthracnose or Stem Canker)"
   ],
   "Dataset/bad_leaf/BGR (913).jpg": [
     "Sunburn Damage"
@@ -3823,9 +3790,6 @@
   ],
   "Dataset/bad_leaf/PXL_20241025_045630632.jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
-  ],
-  "Dataset/bad_leaf/PXL_20241025_045640672.jpg": [
-    "Bacterial Diseases"
   ],
   "Dataset/bad_leaf/PXL_20241025_045729556.jpg": [
     "Fungal Infections (Anthracnose or Stem Canker)"
