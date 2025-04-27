@@ -65,11 +65,14 @@
 import json
 from collections import Counter
 
-with open("Sorted_dataset/sorted_dataset_labels.json", "r") as file:
-    data = json.load(file)
+# with open("Sorted_dataset/sorted_dataset_labels.json", "r") as file:
+#     data = json.load(file)
+#
+# dict = Counter()
+# for item, label in data.items():
+#     dict[label] += 1
+# for item, count in dict.items():
+#     print(item, count)
 
-dict = Counter()
-for item, label in data.items():
-    dict[label] += 1
-for item, count in dict.items():
-    print(item, count)
+import torch
+print(torch.__file__)
