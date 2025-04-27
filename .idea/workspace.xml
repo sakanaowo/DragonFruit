@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2d3e36d-183f-4aeb-872c-dd02ec1a4827" name="Changes" comment="nothing here">
+    <list default="true" id="f2d3e36d-183f-4aeb-872c-dd02ec1a4827" name="Changes" comment="update: split data">
       <change afterPath="$PROJECT_DIR$/data/test/Fungal Infections (Anthracnose or Stem Canker)/BGR (1).jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/test/Fungal Infections (Anthracnose or Stem Canker)/BGR (100).jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/test/Fungal Infections (Anthracnose or Stem Canker)/BGR (1026).jpg" afterDir="false" />
@@ -4449,9 +4449,6 @@
       <change afterPath="$PROJECT_DIR$/data/val/Sunburn Damage/Raw- (338).jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/val/Sunburn Damage/raw (34).jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/val/Sunburn Damage/raw (38).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/split_dataset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -4529,7 +4526,7 @@
       <option name="presentableId" value="Default" />
       <updated>1745657303757</updated>
       <workItem from="1745657306506" duration="1034000" />
-      <workItem from="1745737713792" duration="11600000" />
+      <workItem from="1745737713792" duration="11994000" />
     </task>
     <task id="LOCAL-00001" summary="update Dataset">
       <option name="closed" value="true" />
@@ -4579,7 +4576,39 @@
       <option name="project" value="LOCAL" />
       <updated>1745746151740</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update: split dataset into train, val, test">
+      <option name="closed" value="true" />
+      <created>1745750878017</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745750878017</updated>
+    </task>
+    <task id="LOCAL-00008" summary="nothing here">
+      <option name="closed" value="true" />
+      <created>1745750902093</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1745750902093</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update xml">
+      <option name="closed" value="true" />
+      <created>1745750925927</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1745750925927</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update: split data">
+      <option name="closed" value="true" />
+      <created>1745751018365</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1745751018365</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -4601,8 +4630,11 @@
     <MESSAGE value="update labels" />
     <MESSAGE value="update: move images dataset to sorted_dataset" />
     <MESSAGE value="update: move image to sorted_dataset" />
+    <MESSAGE value="update: split dataset into train, val, test" />
     <MESSAGE value="nothing here" />
-    <option name="LAST_COMMIT_MESSAGE" value="nothing here" />
+    <MESSAGE value="update xml" />
+    <MESSAGE value="update: split data" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: split data" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DragonFruit$temp.coverage" NAME="temp Coverage Results" MODIFIED="1745745436275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
