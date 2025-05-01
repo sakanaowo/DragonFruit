@@ -1,3 +1,5 @@
+import os
+
 import torch
 import torch.optim as optim
 import torch.nn as nn
@@ -9,8 +11,7 @@ from utils.helper import save_model
 
 # uncomment this if you want to run this file on colab
 import sys
-
-sys.path.append('/kaggle/working/DragonFruit')
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 
 def train_one_epoch(model, dataloader, criterion, optimizer, device):
