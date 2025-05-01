@@ -7,6 +7,11 @@ from src.dataset import get_dataloaders
 from src.model import build_model
 from utils.helper import save_model
 
+# uncomment this if you want to run this file on colab
+import sys
+
+sys.path.append('/content/DragonFruit')
+
 
 def train_one_epoch(model, dataloader, criterion, optimizer, device):
     model.train()
