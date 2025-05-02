@@ -47,13 +47,13 @@ def show_loss(train_loss, val_loss):
     plt.plot(epochs, val_loss, label='Val Loss', marker='o')
 
     # Hiển thị điểm cực đại (max)
-    max_train = max(train_loss)
-    max_val = max(val_loss)
-    idx_train = train_loss.index(max_train)
-    idx_val = val_loss.index(max_val)
+    min_train = min(train_loss)
+    min_val = min(val_loss)
+    idx_train = train_loss.index(min_train)
+    idx_val = val_loss.index(min_val)
 
-    plt.text(epochs[idx_train], max_train + 0.02, f"{max_train:.2f}", ha='center', fontsize=9, color='blue')
-    plt.text(epochs[idx_val], max_val + 0.02, f"{max_val:.2f}", ha='center', fontsize=9, color='orange')
+    plt.text(epochs[idx_train], min_train + 0.02, f"{min_train:.2f}", ha='center', fontsize=9, color='blue')
+    plt.text(epochs[idx_val], min_val + 0.02, f"{min_val:.2f}", ha='center', fontsize=9, color='orange')
 
     plt.title('Loss per Epoch')
     plt.xlabel('Epoch')
