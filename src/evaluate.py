@@ -2,7 +2,7 @@ import torch
 from sklearn.metrics import classification_report, accuracy_score
 from tqdm import tqdm
 
-from src.dataset import get_dataloaders
+from dataset import get_dataloaders
 from utils.config import load_config
 from utils.load_model import load_model
 
