@@ -1,5 +1,4 @@
 import torch
-from torch.utils.data import DataLoader
 from sklearn.metrics import classification_report, accuracy_score
 from tqdm import tqdm
 
@@ -44,5 +43,5 @@ if __name__ == '__main__':
         config['data']['batch_size'],
         config['data']['num_workers'],
     )
-    classes_names = dataloader['train'].dataset.classes
+    classes_names = config['data']['class_names']
     evaluate(model, dataloader['test'], device, classes_names)
