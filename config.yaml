@@ -11,6 +11,7 @@ model:
   name: resnet50
   num_classes: 5
   pretrained: true
+  model_path: models/model.pth
 
 # Training settings
 train:
