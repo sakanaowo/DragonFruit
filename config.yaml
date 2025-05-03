@@ -5,6 +5,7 @@ data:
   test_dir: data/test
   batch_size: 32
   num_workers: 4
+  class_names: ["Fungal Infections (Anthracnose or Stem Canker)","Healthy Fruits","Healthy Leaves","Insect-Infected Fruits","Sunburn Damage"]
 
 # Model settings
 model:
