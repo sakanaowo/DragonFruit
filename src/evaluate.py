@@ -1,11 +1,20 @@
+import os
+
 import torch
 from sklearn.metrics import classification_report, accuracy_score
 from tqdm import tqdm
 
-from dataset import get_dataloaders
+from src.dataset import get_dataloaders
 from utils.config import load_config
 from utils.load_model import load_model
 
+# uncomment to run on colab
+import sys
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+
+# //
 
 def evaluate(model, dataloader, device, class_name):
     all_preds = []
