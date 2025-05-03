@@ -62,12 +62,3 @@
 #     copy=True,           # copy ảnh
 #     num_workers=16       # tăng tốc
 # )
-
-import os
-os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
-from utils.helper import load_logs, show_loss, extract_metrics_from_log, show_acc
-
-log = load_logs('1st_train.txt')
-train_loss, val_loss, train_acc, val_acc = extract_metrics_from_log(log)
-show_loss(train_loss, val_loss)
-show_acc(train_acc, val_acc)
