@@ -14,7 +14,7 @@ def build_model(num_classes, pretrained=True):
 
 def load_model(device):
     config = load_config()
-    num_classes = config['data']['num_classes']
+    num_classes=config['model']['num_classes']
     model = build_model(num_classes=num_classes, pretrained=False)
 
     model.load_state_dict(torch.load(config['model']['model_path']))
