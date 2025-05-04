@@ -23,7 +23,13 @@ def predict_image(image, device):
 
     if image.startswith('http'):
         response = requests.get(image)
-        image = Image.open(BytesIO(response.content)).convert('RGB')
+        if response.status_code != 200:
+            raise Exception(f"Failed to download image from {image}: ", str(response.status_code))
+        try:
+            image = Image.open(BytesIO(response.content)).convert('RGB')
+        except Exception as e:
+            raise Exception(f"Failed to load image from {image}: ", str(e))
+
     else:
         if not os.path.exists(image):
             raise FileNotFoundError(f"Image {image} not found.")
