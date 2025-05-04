@@ -11,7 +11,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 # //
 from src.dataset import get_dataloaders
 from utils.config import load_config
-from utils.load_model import load_model
+from src.model import load_model
 
 
 def evaluate(model, dataloader, device, class_name):

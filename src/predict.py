@@ -5,7 +5,7 @@ import torch
 from PIL import Image
 
 from utils.config import load_config
-from utils.load_model import load_model
+from src.model import load_model
 from utils.transform import val_test_transform
 
 
