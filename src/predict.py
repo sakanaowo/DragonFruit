@@ -3,6 +3,9 @@ import os
 
 import torch
 from PIL import Image
+# uncomment this if you want to run this file on colab
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from utils.config import load_config
 from src.model import load_model
