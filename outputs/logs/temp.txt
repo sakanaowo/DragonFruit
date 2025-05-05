@@ -1,0 +1,136 @@
+Epoch 1/50
+Train Loss: 0.9236|Train Acc: 62.03%
+Val Loss: 0.7038|Val Acc: 71.49%
+model saved
+Epoch 2/50
+Train Loss: 0.7838|Train Acc: 68.90%
+Val Loss: 0.7761|Val Acc: 66.09%
+Epoch 3/50
+Train Loss: 0.7399|Train Acc: 71.34%
+Val Loss: 0.6975|Val Acc: 74.34%
+model saved
+Epoch 4/50
+Train Loss: 0.7120|Train Acc: 72.66%
+Val Loss: 0.5103|Val Acc: 82.18%
+model saved
+Epoch 5/50
+Train Loss: 0.6851|Train Acc: 74.58%
+Val Loss: 1.1778|Val Acc: 58.45%
+Epoch 6/50
+Train Loss: 0.6685|Train Acc: 74.82%
+Val Loss: 0.5145|Val Acc: 81.87%
+Epoch 7/50
+Train Loss: 0.6488|Train Acc: 75.14%
+Val Loss: 0.4716|Val Acc: 82.59%
+model saved
+Epoch 8/50
+Train Loss: 0.6457|Train Acc: 76.34%
+Val Loss: 0.7125|Val Acc: 72.71%
+Epoch 9/50
+Train Loss: 0.6365|Train Acc: 76.23%
+Val Loss: 0.5846|Val Acc: 78.41%
+Epoch 10/50
+Train Loss: 0.6186|Train Acc: 77.10%
+Val Loss: 0.5749|Val Acc: 79.02%
+Epoch 11/50
+Train Loss: 0.5622|Train Acc: 78.08%
+Val Loss: 0.4412|Val Acc: 85.23%
+model saved
+Epoch 12/50
+Train Loss: 0.5526|Train Acc: 79.23%
+Val Loss: 0.4438|Val Acc: 83.40%
+Epoch 13/50
+Train Loss: 0.4922|Train Acc: 81.58%
+Val Loss: 0.4097|Val Acc: 84.93%
+Epoch 14/50
+Train Loss: 0.5056|Train Acc: 81.34%
+Val Loss: 0.4095|Val Acc: 85.95%
+model saved
+Epoch 15/50
+Train Loss: 0.4793|Train Acc: 81.93%
+Val Loss: 0.4116|Val Acc: 85.03%
+Epoch 16/50
+Train Loss: 0.4890|Train Acc: 81.88%
+Val Loss: 0.4259|Val Acc: 83.81%
+Epoch 17/50
+Train Loss: 0.4713|Train Acc: 82.19%
+Val Loss: 0.3827|Val Acc: 84.83%
+Epoch 18/50
+Train Loss: 0.4663|Train Acc: 82.93%
+Val Loss: 0.3995|Val Acc: 84.83%
+Epoch 19/50
+Train Loss: 0.4514|Train Acc: 83.14%
+Val Loss: 0.4038|Val Acc: 84.83%
+Epoch 20/50
+Train Loss: 0.4435|Train Acc: 83.23%
+Val Loss: 0.3946|Val Acc: 86.05%
+model saved
+Epoch 21/50
+Train Loss: 0.4206|Train Acc: 84.73%
+Val Loss: 0.3998|Val Acc: 85.95%
+Epoch 22/50
+Train Loss: 0.4376|Train Acc: 83.75%
+Val Loss: 0.3979|Val Acc: 85.34%
+Epoch 23/50
+Train Loss: 0.4281|Train Acc: 84.04%
+Val Loss: 0.3893|Val Acc: 86.05%
+Epoch 24/50
+Train Loss: 0.4224|Train Acc: 84.47%
+Val Loss: 0.3745|Val Acc: 86.66%
+model saved
+Epoch 25/50
+Train Loss: 0.4113|Train Acc: 84.78%
+Val Loss: 0.3835|Val Acc: 86.15%
+Epoch 26/50
+Train Loss: 0.3956|Train Acc: 85.25%
+Val Loss: 0.3864|Val Acc: 86.15%
+Epoch 27/50
+Train Loss: 0.4085|Train Acc: 84.86%
+Val Loss: 0.3908|Val Acc: 85.74%
+Epoch 28/50
+Train Loss: 0.4115|Train Acc: 85.10%
+Val Loss: 0.3908|Val Acc: 85.95%
+Epoch 29/50
+Train Loss: 0.3950|Train Acc: 86.12%
+Val Loss: 0.3938|Val Acc: 85.34%
+Epoch 30/50
+Train Loss: 0.4005|Train Acc: 85.97%
+Val Loss: 0.3790|Val Acc: 86.46%
+Epoch 31/50
+Train Loss: 0.3940|Train Acc: 85.10%
+Val Loss: 0.3951|Val Acc: 86.35%
+Epoch 32/50
+Train Loss: 0.3860|Train Acc: 85.97%
+Val Loss: 0.3922|Val Acc: 85.85%
+Epoch 33/50
+Train Loss: 0.3964|Train Acc: 85.36%
+Val Loss: 0.3727|Val Acc: 86.56%
+Epoch 34/50
+Train Loss: 0.4027|Train Acc: 85.69%
+Val Loss: 0.3773|Val Acc: 86.56%
+Epoch 35/50
+Train Loss: 0.3989|Train Acc: 85.34%
+Val Loss: 0.3917|Val Acc: 85.44%
+Epoch 36/50
+Train Loss: 0.3886|Train Acc: 85.89%
+Val Loss: 0.3826|Val Acc: 86.35%
+Epoch 37/50
+Train Loss: 0.4205|Train Acc: 84.95%
+Val Loss: 0.3769|Val Acc: 86.86%
+model saved
+Epoch 38/50
+Train Loss: 0.4010|Train Acc: 85.30%
+Val Loss: 0.3660|Val Acc: 86.97%
+model saved
+Epoch 39/50
+Train Loss: 0.4002|Train Acc: 85.28%
+Val Loss: 0.3748|Val Acc: 86.66%
+Epoch 40/50
+Train Loss: 0.3964|Train Acc: 85.80%
+Val Loss: 0.3865|Val Acc: 86.15%
+Epoch 41/50
+Train Loss: 0.4085|Train Acc: 85.34%
+Val Loss: 0.3841|Val Acc: 86.46%
+Epoch 42/50
+Train Loss: 0.4019|Train Acc: 84.91%
+Val Loss: 0.3880|Val Acc: 86.25%
