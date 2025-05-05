@@ -23,6 +23,7 @@ train_transform = transforms.Compose([
 
 val_test_transform = transforms.Compose([
     transforms.Resize((224, 224)),
+    ConvertToRGB(),
     transforms.ToTensor(),
     transforms.Normalize(mean=mean, std=std)
 ])
