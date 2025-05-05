@@ -25,18 +25,17 @@ def extract_metrics_from_log(log_text):
     train_loss, val_loss = [], []
     train_acc, val_acc = [], []
 
-    # Tìm tất cả các dòng chứa thông số
+    # Tách từng dòng log
     lines = log_text.strip().split('\n')
     for line in lines:
-        match = re.match(r"Train Loss: ([\d.]+)\|Train Acc: ([\d.]+)%", line)
+        match = re.match(
+            r"Epoch \[\d+\]: Train Loss: ([\d.]+), Train Accuracy: ([\d.]+)%, Val Loss: ([\d.]+), Val Accuracy: ([\d.]+)%",
+            line
+        )
         if match:
             train_loss.append(float(match.group(1)))
             train_acc.append(float(match.group(2)))
-        else:
-            match = re.match(r"Val Loss: ([\d.]+)\|Val Acc: ([\d.]+)%", line)
-            if match:
-                val_loss.append(float(match.group(1)))
-                val_acc.append(float(match.group(2)))
+            val_loss.append(float(match.group(3)))
+            val_acc.append(float(match.group(4)))
 
     return [train_loss, val_loss, train_acc, val_acc]
-
