@@ -1,4 +1,5 @@
 import os
+import datetime
 
 import torch
 import torch.optim as optim
@@ -6,6 +7,9 @@ import torch.nn as nn
 
 # uncomment this if you want to run this file on colab
 import sys
+
+from utils.log import log_to_file
+
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from utils.config import load_config
@@ -67,6 +71,12 @@ def main():
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     print('device:', device)
 
+    #create log by time
+    now = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+    log_dir = config['output']['log_dir']
+    os.makedirs(log_dir, exist_ok=True)
+    log_file = os.path.join(log_dir, f"log_{now}.txt")
+
     dataloaders = get_dataloaders(
         train_dir=config['data']['train_dir'],
         val_dir=config['data']['val_dir'],
@@ -103,6 +113,14 @@ def main():
 
         print(f"Train Loss: {train_loss:.4f}|Train Acc: {train_acc * 100:.2f}%")
         print(f"Val Loss: {val_loss:.4f}|Val Acc: {val_acc * 100:.2f}%")
+
+        log_message = (
+            f"Epoch [{epoch + 1}]: "
+            f"Train Loss: {train_loss:.4f}, Train Accuracy: {train_acc * 100:.2f}%, "
+            f"Val Loss: {val_loss:.4f}, Val Accuracy: {val_acc * 100:.2f}%"
+        )
+        print(log_message)
+        log_to_file(log_file, log_message)
 
         if scheduler:
             scheduler.step()
