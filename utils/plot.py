@@ -1,13 +1,11 @@
 from matplotlib import pyplot as plt
 
-epochs = list(range(1, 51))
-
 def show_loss(train_loss, val_loss):
+    epochs = list(range(1, len(train_loss) + 1))
     plt.figure(figsize=(12, 5))
     plt.plot(epochs, train_loss, label='Train Loss', marker='o')
     plt.plot(epochs, val_loss, label='Val Loss', marker='o')
 
-    # Hiển thị điểm cực đại (max)
     min_train = min(train_loss)
     min_val = min(val_loss)
     idx_train = train_loss.index(min_train)
@@ -22,18 +20,16 @@ def show_loss(train_loss, val_loss):
     plt.legend()
     plt.grid(True)
     plt.xticks(epochs)
-
     plt.tight_layout()
     plt.show()
 
 
-
 def show_acc(train_acc, val_acc):
+    epochs = list(range(1, len(train_acc) + 1))
     plt.figure(figsize=(12, 5))
     plt.plot(epochs, train_acc, label='Train Acc', marker='o')
     plt.plot(epochs, val_acc, label='Val Acc', marker='o')
 
-    # Hiển thị điểm cực đại (max)
     max_train = max(train_acc)
     max_val = max(val_acc)
     idx_train = train_acc.index(max_train)
@@ -48,7 +44,5 @@ def show_acc(train_acc, val_acc):
     plt.legend()
     plt.grid(True)
     plt.xticks(epochs)
-
     plt.tight_layout()
     plt.show()
-
