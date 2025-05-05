@@ -32,6 +32,6 @@ def split_dataset(sorted_dataset_dir, output_dir, train_ratio=0.7, val_ratio=0.1
                 shutil.copy(src_path, dst_path)
 
 if __name__ == "__main__":
-    sorted_dataset_dir = "../Sorted_dataset"
+    sorted_dataset_dir = "/home/sakana/Code/backup/Sorted_dataset"
     output_dir = "../data"
     split_dataset(sorted_dataset_dir, output_dir)
